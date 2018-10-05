@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+     <footer class="footer-social-links footer p_1200">
+        <div class=container>
+            <div class=row>
+                <div class=col-sm-6>
+                    <p class="font-alt copyright">©2018 <a href=http://techhub.pro/ target=_blank>TechHub</a> Bangalore</div>
+                <div class=col-sm-6>
+                    <div class=footer-social-links>
+                        <a href=#>
+                            <a href=https://www.instagram.com/techhubmvit/ target=_blank><i class="fa fa-lg fa-instagram"></i></a> 
+                            <a href=https://www.linkedin.com/company/techhubmvit/ target=_blank><i class="fa fa-lg fa-linledin"></i></a>
+                            <a href=https://www.facebook.com/techhubmvit/ target=_blank><i class="fa fa-lg fa-facebook"></i></a>
+                        </div>
+                </div>
+            </div>
+            <div class=scroll-up><a href=#totop><i class="fa fa-angle-double-up"></i></a></div>
+        </div>
+    </footer>
+
+</body>
+</html>
